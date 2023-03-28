@@ -1,6 +1,6 @@
 <template>
   <div>
     <h2>404 Page not found!</h2>
-    <p>Maybe view<router-link to="/teams">Teams</router-link>?</p>
+    <h3>Maybe view <router-link to="/teams">Teams</router-link>?</h3>
   </div>
 </template>
